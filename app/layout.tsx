@@ -32,6 +32,14 @@ export const metadata: Metadata = {
   title: "Luyện Chính Tả",
   description: "Ứng dụng luyện đọc và chính tả cho học sinh lớp 1",
   icons: {
-    icon: "/writing.svg",
+    icon: [
+      {
+        url: "/writing.svg?v=3",
+        type: "image/svg+xml",
+      },
+    ],
+    shortcut: "/writing.svg?v=3",
   },
 };
+
+;
