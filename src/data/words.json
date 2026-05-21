@@ -1,0 +1,536 @@
+{
+    "words": [
+        {
+            "id": "animal_001",
+            "word": "chó",
+            "initial": "ch",
+            "rhyme": "o",
+            "tone": "sắc",
+            "category": "animal",
+            "difficulty": 1,
+            "confusions": [
+                "ch_tr"
+            ]
+        },
+        {
+            "id": "animal_002",
+            "word": "mèo",
+            "initial": "m",
+            "rhyme": "eo",
+            "tone": "huyền",
+            "category": "animal",
+            "difficulty": 1,
+            "confusions": []
+        },
+        {
+            "id": "animal_003",
+            "word": "gà",
+            "initial": "g",
+            "rhyme": "a",
+            "tone": "huyền",
+            "category": "animal",
+            "difficulty": 1,
+            "confusions": []
+        },
+        {
+            "id": "animal_004",
+            "word": "lợn",
+            "initial": "l",
+            "rhyme": "on",
+            "tone": "nặng",
+            "category": "animal",
+            "difficulty": 2,
+            "confusions": [
+                "l_n"
+            ]
+        },
+        {
+            "id": "animal_005",
+            "word": "cá",
+            "initial": "c",
+            "rhyme": "a",
+            "tone": "sắc",
+            "category": "animal",
+            "difficulty": 1,
+            "confusions": []
+        },
+        {
+            "id": "animal_006",
+            "word": "chim",
+            "initial": "ch",
+            "rhyme": "im",
+            "tone": "ngang",
+            "category": "animal",
+            "difficulty": 1,
+            "confusions": [
+                "ch_tr"
+            ]
+        },
+        {
+            "id": "animal_007",
+            "word": "bò",
+            "initial": "b",
+            "rhyme": "o",
+            "tone": "huyền",
+            "category": "animal",
+            "difficulty": 1,
+            "confusions": []
+        },
+        {
+            "id": "animal_008",
+            "word": "trâu",
+            "initial": "tr",
+            "rhyme": "au",
+            "tone": "ngang",
+            "category": "animal",
+            "difficulty": 2,
+            "confusions": [
+                "ch_tr"
+            ]
+        },
+        {
+            "id": "animal_009",
+            "word": "vịt",
+            "initial": "v",
+            "rhyme": "it",
+            "tone": "nặng",
+            "category": "animal",
+            "difficulty": 2,
+            "confusions": []
+        },
+        {
+            "id": "animal_010",
+            "word": "thỏ",
+            "initial": "th",
+            "rhyme": "o",
+            "tone": "hỏi",
+            "category": "animal",
+            "difficulty": 2,
+            "confusions": []
+        },
+        {
+            "id": "family_001",
+            "word": "ông",
+            "initial": "",
+            "rhyme": "ong",
+            "tone": "ngang",
+            "category": "family",
+            "difficulty": 2,
+            "confusions": []
+        },
+        {
+            "id": "family_002",
+            "word": "bà",
+            "initial": "b",
+            "rhyme": "a",
+            "tone": "huyền",
+            "category": "family",
+            "difficulty": 1,
+            "confusions": []
+        },
+        {
+            "id": "family_003",
+            "word": "cha",
+            "initial": "ch",
+            "rhyme": "a",
+            "tone": "ngang",
+            "category": "family",
+            "difficulty": 1,
+            "confusions": [
+                "ch_tr"
+            ]
+        },
+        {
+            "id": "family_004",
+            "word": "mẹ",
+            "initial": "m",
+            "rhyme": "e",
+            "tone": "nặng",
+            "category": "family",
+            "difficulty": 1,
+            "confusions": []
+        },
+        {
+            "id": "family_005",
+            "word": "ba",
+            "initial": "b",
+            "rhyme": "a",
+            "tone": "ngang",
+            "category": "family",
+            "difficulty": 1,
+            "confusions": []
+        },
+        {
+            "id": "family_006",
+            "word": "má",
+            "initial": "m",
+            "rhyme": "a",
+            "tone": "sắc",
+            "category": "family",
+            "difficulty": 1,
+            "confusions": []
+        },
+        {
+            "id": "family_007",
+            "word": "anh",
+            "initial": "",
+            "rhyme": "anh",
+            "tone": "ngang",
+            "category": "family",
+            "difficulty": 2,
+            "confusions": []
+        },
+        {
+            "id": "family_008",
+            "word": "chị",
+            "initial": "ch",
+            "rhyme": "i",
+            "tone": "nặng",
+            "category": "family",
+            "difficulty": 2,
+            "confusions": [
+                "ch_tr"
+            ]
+        },
+        {
+            "id": "family_009",
+            "word": "em",
+            "initial": "",
+            "rhyme": "em",
+            "tone": "ngang",
+            "category": "family",
+            "difficulty": 1,
+            "confusions": []
+        },
+        {
+            "id": "family_010",
+            "word": "bạn",
+            "initial": "b",
+            "rhyme": "an",
+            "tone": "nặng",
+            "category": "family",
+            "difficulty": 2,
+            "confusions": []
+        },
+        {
+            "id": "body_001",
+            "word": "đầu",
+            "initial": "đ",
+            "rhyme": "au",
+            "tone": "huyền",
+            "category": "body",
+            "difficulty": 2,
+            "confusions": []
+        },
+        {
+            "id": "body_002",
+            "word": "mắt",
+            "initial": "m",
+            "rhyme": "at",
+            "tone": "sắc",
+            "category": "body",
+            "difficulty": 2,
+            "confusions": []
+        },
+        {
+            "id": "body_003",
+            "word": "mũi",
+            "initial": "m",
+            "rhyme": "ui",
+            "tone": "ngã",
+            "category": "body",
+            "difficulty": 2,
+            "confusions": []
+        },
+        {
+            "id": "body_004",
+            "word": "miệng",
+            "initial": "m",
+            "rhyme": "ieng",
+            "tone": "nặng",
+            "category": "body",
+            "difficulty": 3,
+            "confusions": []
+        },
+        {
+            "id": "body_005",
+            "word": "tai",
+            "initial": "t",
+            "rhyme": "ai",
+            "tone": "ngang",
+            "category": "body",
+            "difficulty": 1,
+            "confusions": []
+        },
+        {
+            "id": "body_006",
+            "word": "tay",
+            "initial": "t",
+            "rhyme": "ay",
+            "tone": "ngang",
+            "category": "body",
+            "difficulty": 1,
+            "confusions": []
+        },
+        {
+            "id": "body_007",
+            "word": "chân",
+            "initial": "ch",
+            "rhyme": "an",
+            "tone": "ngang",
+            "category": "body",
+            "difficulty": 2,
+            "confusions": [
+                "ch_tr"
+            ]
+        },
+        {
+            "id": "body_008",
+            "word": "tóc",
+            "initial": "t",
+            "rhyme": "oc",
+            "tone": "sắc",
+            "category": "body",
+            "difficulty": 2,
+            "confusions": []
+        },
+        {
+            "id": "body_009",
+            "word": "răng",
+            "initial": "r",
+            "rhyme": "ang",
+            "tone": "ngang",
+            "category": "body",
+            "difficulty": 2,
+            "confusions": [
+                "r_d_gi"
+            ]
+        },
+        {
+            "id": "body_010",
+            "word": "cổ",
+            "initial": "c",
+            "rhyme": "o",
+            "tone": "hỏi",
+            "category": "body",
+            "difficulty": 2,
+            "confusions": []
+        },
+        {
+            "id": "nature_001",
+            "word": "cây",
+            "initial": "c",
+            "rhyme": "ay",
+            "tone": "ngang",
+            "category": "nature",
+            "difficulty": 2,
+            "confusions": []
+        },
+        {
+            "id": "nature_002",
+            "word": "hoa",
+            "initial": "h",
+            "rhyme": "oa",
+            "tone": "ngang",
+            "category": "nature",
+            "difficulty": 2,
+            "confusions": []
+        },
+        {
+            "id": "nature_003",
+            "word": "lá",
+            "initial": "l",
+            "rhyme": "a",
+            "tone": "sắc",
+            "category": "nature",
+            "difficulty": 1,
+            "confusions": [
+                "l_n"
+            ]
+        },
+        {
+            "id": "nature_004",
+            "word": "nước",
+            "initial": "n",
+            "rhyme": "uoc",
+            "tone": "sắc",
+            "category": "nature",
+            "difficulty": 3,
+            "confusions": [
+                "l_n"
+            ]
+        },
+        {
+            "id": "object_001",
+            "word": "nhà",
+            "initial": "nh",
+            "rhyme": "a",
+            "tone": "huyền",
+            "category": "object",
+            "difficulty": 2,
+            "confusions": []
+        },
+        {
+            "id": "object_002",
+            "word": "bàn",
+            "initial": "b",
+            "rhyme": "an",
+            "tone": "huyền",
+            "category": "object",
+            "difficulty": 2,
+            "confusions": []
+        },
+        {
+            "id": "school_001",
+            "word": "sách",
+            "initial": "s",
+            "rhyme": "ach",
+            "tone": "sắc",
+            "category": "school",
+            "difficulty": 2,
+            "confusions": [
+                "s_x"
+            ]
+        },
+        {
+            "id": "school_002",
+            "word": "xe",
+            "initial": "x",
+            "rhyme": "e",
+            "tone": "ngang",
+            "category": "school",
+            "difficulty": 1,
+            "confusions": [
+                "s_x"
+            ]
+        },
+        {
+            "id": "school_003",
+            "word": "ghế",
+            "initial": "gh",
+            "rhyme": "e",
+            "tone": "sắc",
+            "category": "school",
+            "difficulty": 2,
+            "confusions": [
+                "g_gh"
+            ]
+        },
+        {
+            "id": "school_004",
+            "word": "bút",
+            "initial": "b",
+            "rhyme": "ut",
+            "tone": "sắc",
+            "category": "school",
+            "difficulty": 1,
+            "confusions": []
+        },
+        {
+            "id": "action_001",
+            "word": "ăn",
+            "initial": "",
+            "rhyme": "an",
+            "tone": "ngang",
+            "category": "action",
+            "difficulty": 2,
+            "confusions": []
+        },
+        {
+            "id": "action_002",
+            "word": "ngủ",
+            "initial": "ng",
+            "rhyme": "u",
+            "tone": "hỏi",
+            "category": "action",
+            "difficulty": 2,
+            "confusions": [
+                "ng_ngh"
+            ]
+        },
+        {
+            "id": "action_003",
+            "word": "đi",
+            "initial": "đ",
+            "rhyme": "i",
+            "tone": "ngang",
+            "category": "action",
+            "difficulty": 1,
+            "confusions": []
+        },
+        {
+            "id": "action_004",
+            "word": "chạy",
+            "initial": "ch",
+            "rhyme": "ay",
+            "tone": "nặng",
+            "category": "action",
+            "difficulty": 2,
+            "confusions": [
+                "ch_tr"
+            ]
+        },
+        {
+            "id": "action_005",
+            "word": "cười",
+            "initial": "c",
+            "rhyme": "uoi",
+            "tone": "huyền",
+            "category": "action",
+            "difficulty": 3,
+            "confusions": []
+        },
+        {
+            "id": "describe_001",
+            "word": "to",
+            "initial": "t",
+            "rhyme": "o",
+            "tone": "ngang",
+            "category": "describe",
+            "difficulty": 1,
+            "confusions": []
+        },
+        {
+            "id": "describe_002",
+            "word": "nhỏ",
+            "initial": "nh",
+            "rhyme": "o",
+            "tone": "hỏi",
+            "category": "describe",
+            "difficulty": 2,
+            "confusions": []
+        },
+        {
+            "id": "describe_003",
+            "word": "cao",
+            "initial": "c",
+            "rhyme": "ao",
+            "tone": "ngang",
+            "category": "describe",
+            "difficulty": 1,
+            "confusions": []
+        },
+        {
+            "id": "describe_004",
+            "word": "dài",
+            "initial": "d",
+            "rhyme": "ai",
+            "tone": "huyền",
+            "category": "describe",
+            "difficulty": 2,
+            "confusions": [
+                "d_r_gi"
+            ]
+        },
+        {
+            "id": "describe_005",
+            "word": "đẹp",
+            "initial": "đ",
+            "rhyme": "ep",
+            "tone": "nặng",
+            "category": "describe",
+            "difficulty": 2,
+            "confusions": []
+        }
+    ]
+}
