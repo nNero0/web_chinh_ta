@@ -34,11 +34,13 @@ export const metadata: Metadata = {
   icons: {
     icon: [
       {
-        url: "/writing.svg?v=3",
-        type: "image/svg+xml",
+        url: "/icon.png?v=1",
+        type: "image/png",
+        sizes: "512x512",
       },
     ],
-    shortcut: "/writing.svg?v=3",
+    shortcut: "/icon.png?v=1",
+    apple: "/icon.png?v=1",
   },
 };
 
